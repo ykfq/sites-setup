@@ -27,7 +27,6 @@ bash make_gopl-zh.sh
 # Auto build gopl-zh daily
 ```
 bash add_cron.sh
-chmod +x /etc/cron.daily
 ```
 # Access
 ```
